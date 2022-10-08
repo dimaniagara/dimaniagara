@@ -1,4 +1,5 @@
 
+![Dimitri Suhak Banner](https://user-images.githubusercontent.com/86453739/194730112-a71603dc-927d-4a41-9000-7b5f276f7b69.png)
 
 ### :man_technologist: About Me :
 - 🔭 I’m currently working to **find myself in IT.**
