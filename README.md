@@ -1,6 +1,5 @@
 
 ### Hi there 👋, I'm Dimitri Suhak
-#### You live only once, and if you do it right - once is enough!
 ![You live only once, and if you do it right - once is enough!](https://user-images.githubusercontent.com/86453739/194730750-c645bb20-6fcc-460a-bc85-20f9596022e4.png)
 
 I'm Dimitri from Canada, and I do enjoy developing things. Learning and Exploring is my passion. 
