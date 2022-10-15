@@ -8,6 +8,8 @@ Skills:
 * ⚛️ React
 * 🛡️JavaScript
 * 🖥️HTML/CSS
+* and much more to make it great! 👌
+
 
 ![WebDeveloperMycrxnGIF (2)](https://user-images.githubusercontent.com/86453739/194730991-181063f0-856e-4400-9882-355f36d70631.gif)
 
