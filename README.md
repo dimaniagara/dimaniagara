@@ -5,9 +5,10 @@
 I'm Dimitri from Canada, and I do enjoy developing things. Learning and Exploring is my passion. 
 
 Skills:
-* ⚛️ React
-* 🛡️JavaScript
-* 🖥️HTML/CSS
+* 🖥️ HTML/CSS/SASS
+* 🛡️ JavaScript
+* ⚛️ React | Hooks | Redux Tool Kit
+* 🔷 Node.js | Express | Mongoose | MongoDB
 * and much more to make it great! 👌
 
 
